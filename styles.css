@@ -29,13 +29,13 @@ section.project img {
     /* max-width: 100%;
     height: auto;
     margin-bottom: 10px; */
-    width: 2vw;
-    height: 2vh;
+    width: 12vw;
+    height: 12vh;
     margin-bottom: 10px;
 }
 
 footer {
-    background-color: #333;
+    background-color: #2f10a859;
     color: #fff;
     text-align: center;
     padding: 1rem;
