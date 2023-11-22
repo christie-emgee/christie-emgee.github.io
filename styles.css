@@ -26,8 +26,11 @@ section.project h2 {
 }
 
 section.project img {
-    max-width: 100%;
+    /* max-width: 100%;
     height: auto;
+    margin-bottom: 10px; */
+    width: 2vw;
+    height: 2vh;
     margin-bottom: 10px;
 }
 
