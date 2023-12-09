@@ -23,7 +23,7 @@ section.project {
     height: 28vh;
 }
 
-section.project h2 {
+section.project h2,h3 {
     color: #333;
 }
 
