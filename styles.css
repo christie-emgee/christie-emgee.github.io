@@ -19,7 +19,15 @@ section.project {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ddd;
+
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns with equal width */
+    gap: 20px;
 }
+
+
+
 
 section.project h2 {
     color: #333;
