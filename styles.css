@@ -18,8 +18,9 @@ header h1 {
 section.project {
     margin: 20px;
     padding: 20px;
-    border: 1px outset #ddd;
-    width: 30vw;
+    border: 2px outset #ddd;
+    width: 35vw;
+    height: 28vh;
 }
 
 section.project h2 {
