@@ -19,8 +19,7 @@ section.project {
     margin: 20px;
     padding: 20px;
     border: 2px outset #ddd;
-    width: 35vw;
-    height: 28vh;
+    width: 100%; /* Use 100% width for responsiveness */
 }
 
 section.project h2,h3 {
@@ -28,11 +27,8 @@ section.project h2,h3 {
 }
 
 section.project img {
-    /* max-width: 100%;
+    width: 100%; /* Use 100% width for responsiveness */
     height: auto;
-    margin-bottom: 10px; */
-    width: 6vw;
-    height: 6vh;
     margin-bottom: 10px;
 }
 
