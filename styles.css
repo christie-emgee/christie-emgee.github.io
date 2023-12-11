@@ -27,8 +27,8 @@ section.project h2,h3 {
 }
 
 section.project img {
-    width: 100%; /* Use 100% width for responsiveness */
-    height: auto;
+    height: 4%;
+    width: 4%;
     margin-bottom: 10px;
 }
 
@@ -40,8 +40,4 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-}
-img{
-    height: 5%;
-    width: 5%;
 }
