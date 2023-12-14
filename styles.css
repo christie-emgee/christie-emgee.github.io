@@ -10,7 +10,7 @@ header {
     background-color: rgb(135, 158, 222);
     color: #fff;
     text-align: center;
-    padding: 1rem;
+    padding: 0.8rem;
     z-index: 10;
     border-bottom: 2px outset gainsboro;
 }
